@@ -1,0 +1,3 @@
+This MATLAB script models heat diffusion in a cooling dyke using the finite difference method. The code simulates the temperature distribution over time and space, with parameters like thermal diffusivity, dyke width, and time step size.
+
+It calculates temperature profiles across different depths and times, plotting the results as contour plots and maximum temperature profiles. Additionally, it explores the effects of varying diffusivity and dyke width on the cooling process, generating temperature contours for each parameter combination. This helps visualize how heat dissipates in geological formations.
